@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bucketlistapp/bucketlistapp.iml" filepath="$PROJECT_DIR$/bucketlistapp/bucketlistapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bucketlistapp/android/bucketlistapp_android.iml" filepath="$PROJECT_DIR$/bucketlistapp/android/bucketlistapp_android.iml" />
+    </modules>
+  </component>
+</project>
